@@ -1,1 +1,1 @@
-# LinearRegression
+# Machine Learning Assignments
